@@ -1,0 +1,6 @@
+# 1. Run Backend (Since you are in backend folder)
+uvicorn main:app --reload --port 8000
+
+# 2. Run Frontend (Open a new terminal)
+cd ../frontend
+npm run dev

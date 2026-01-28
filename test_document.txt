@@ -1,0 +1,16 @@
+This is a test PDF document for the GenAI Chatbot.
+
+Title: Sample Test Document
+
+Content:
+This document contains information about artificial intelligence and machine learning.
+
+Key Points:
+1. Machine learning is a subset of artificial intelligence
+2. Neural networks are inspired by biological neurons
+3. Deep learning uses multiple layers of neural networks
+4. Natural language processing helps computers understand human language
+5. Computer vision enables machines to interpret visual information
+
+Conclusion:
+AI and ML are transforming technology and society in many ways.

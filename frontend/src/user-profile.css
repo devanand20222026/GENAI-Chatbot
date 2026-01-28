@@ -1,0 +1,30 @@
+/* User Profile in Header */
+.user-profile {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-xs);
+    padding: var(--spacing-xs) var(--spacing-sm);
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+}
+
+.user-avatar {
+    font-size: 1.25rem;
+}
+
+.user-name {
+    color: var(--text-primary);
+    font-weight: 600;
+    font-size: 0.875rem;
+}
+
+@media (max-width: 768px) {
+    .user-profile {
+        padding: var(--spacing-xs);
+    }
+
+    .user-name {
+        display: none;
+    }
+}
