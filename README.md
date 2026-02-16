@@ -22,7 +22,7 @@ A full-stack AI-powered chatbot application with PDF analysis capabilities, buil
 ## 🛠️ Technology Stack
 
 ### Frontend
-- **Framework**: Next.js 14 with React 18
+- **Framework**: React 18
 - **Styling**: Modern CSS with custom properties, glassmorphism, and animations
 - **Font**: Inter (Google Fonts)
 
